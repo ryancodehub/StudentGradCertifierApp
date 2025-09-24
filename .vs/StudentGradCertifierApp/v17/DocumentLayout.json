@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\functionwindows\\certifylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\functionwindows\\certifylist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\functionwindows\\certifylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\functionwindows\\certifylist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\mainmenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\functionwindows\\emailtemplateeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\functionwindows\\emailtemplateeditor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\functionwindows\\emailtemplateeditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\functionwindows\\emailtemplateeditor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\functionwindows\\wpfeditorhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\functionwindows\\wpfeditorhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FEB6F-450F-4B4E-85E8-E4F64A158656}|StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier.library\\dataaccess\\generaldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3FEB6F-450F-4B4E-85E8-E4F64A158656}|StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj|solutionrelative:studentgradcertifier.library\\dataaccess\\generaldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973B8B08-8E43-46A9-9DA9-FCD9C9C805D2}|..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\SmallApp.Library.csproj|c:\\localgit\\smallapps.library\\dataaccess\\ipowercampususerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973B8B08-8E43-46A9-9DA9-FCD9C9C805D2}|..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\SmallApp.Library.csproj|c:\\localgit\\smallapps.library\\authentication\\iusersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\userwindows\\userappcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\userwindows\\userappcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF85D90A-DBBC-4FD9-B76C-C55D27DDD640}|StudentGradCertifier\\StudentGradCertifier.csproj|solutionrelative:studentgradcertifier\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3FEB6F-450F-4B4E-85E8-E4F64A158656}|StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj|c:\\users\\rguidry\\source\\repos\\studentgradcertifierapp\\studentgradcertifier.library\\studentgradcertifier.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F3FEB6F-450F-4B4E-85E8-E4F64A158656}|StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj|solutionrelative:studentgradcertifier.library\\studentgradcertifier.library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 264,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CertifyList.xaml",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\CertifyList.xaml",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\FunctionWindows\\CertifyList.xaml",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\CertifyList.xaml",
+              "RelativeToolTip": "StudentGradCertifier\\FunctionWindows\\CertifyList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-15T21:18:57.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertifyList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\CertifyList.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\FunctionWindows\\CertifyList.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\CertifyList.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\FunctionWindows\\CertifyList.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T21:04:26.543Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailTemplateEditor.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:12:05.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailTemplateEditor.xaml",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml",
+              "RelativeToolTip": "StudentGradCertifier\\FunctionWindows\\EmailTemplateEditor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-23T18:11:39.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WpfEditorHost.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\WpfEditorHost.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\FunctionWindows\\WpfEditorHost.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\FunctionWindows\\WpfEditorHost.cs",
+              "RelativeToolTip": "StudentGradCertifier\\FunctionWindows\\WpfEditorHost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T18:08:23.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainMenu.xaml",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\MainMenu.xaml",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\MainMenu.xaml",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\MainMenu.xaml",
+              "RelativeToolTip": "StudentGradCertifier\\MainMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-23T18:05:50.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\Login.xaml",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\Login.xaml",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\Login.xaml",
+              "RelativeToolTip": "StudentGradCertifier\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-12T18:11:46.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T17:03:55.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.config",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\App.config",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.config",
+              "RelativeToolTip": "StudentGradCertifier\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-12T18:10:44.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainMenu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\MainMenu.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\MainMenu.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\MainMenu.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\MainMenu.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T15:24:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentGradCertifier.Library.csproj",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj",
+              "RelativeDocumentMoniker": "StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj",
+              "RelativeToolTip": "StudentGradCertifier.Library\\StudentGradCertifier.Library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-12T17:00:52.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.config",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\App.config",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\App.config",
+              "RelativeToolTip": "StudentGradCertifier\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHBAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-12T17:01:20.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier.Library\\DataAccess\\GeneralDataAccess.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier.Library\\DataAccess\\GeneralDataAccess.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier.Library\\DataAccess\\GeneralDataAccess.cs",
+              "RelativeToolTip": "StudentGradCertifier.Library\\DataAccess\\GeneralDataAccess.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwFcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T13:15:44.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\Login.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\Login.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T18:12:10.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserSession.cs",
+              "DocumentMoniker": "C:\\LocalGit\\SmallApps.Library\\Authentication\\IUserSession.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\Authentication\\IUserSession.cs",
+              "ToolTip": "C:\\LocalGit\\SmallApps.Library\\Authentication\\IUserSession.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\Authentication\\IUserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T21:04:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPowerCampusUserInfo.cs",
+              "DocumentMoniker": "C:\\LocalGit\\SmallApps.Library\\DataAccess\\IPowerCampusUserInfo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\DataAccess\\IPowerCampusUserInfo.cs",
+              "ToolTip": "C:\\LocalGit\\SmallApps.Library\\DataAccess\\IPowerCampusUserInfo.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\LocalGit\\SmallApps.Library\\DataAccess\\IPowerCampusUserInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T21:05:00.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAppControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\UserWindows\\UserAppControl.xaml.cs",
+              "RelativeDocumentMoniker": "StudentGradCertifier\\UserWindows\\UserAppControl.xaml.cs",
+              "ToolTip": "C:\\Users\\rguidry\\source\\repos\\StudentGradCertifierApp\\StudentGradCertifier\\UserWindows\\UserAppControl.xaml.cs",
+              "RelativeToolTip": "StudentGradCertifier\\UserWindows\\UserAppControl.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAABQwA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T13:10:13.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
