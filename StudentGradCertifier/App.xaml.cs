@@ -70,8 +70,8 @@ namespace StudentGradCertifier
 
             IConfiguration config = builder.Build();
 
-            var domain = "LSUA";
-            var container = "DC=LSUA,DC=EDU";
+            var domain = "Domain";
+            var container = "DC=Domain,DC=org";
 
             services.AddSingleton<IAuthentication>(provider => new LdapAuthentication(domain, container));
 
